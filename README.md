@@ -21,3 +21,6 @@ Features
 * Pulse Synchronization: The pulse is transferred and synchronized between the two clock domains.
 * Output Pulse Generation: The synchronized pulse is output on syncout.
 * Busy Signal Management: The busy signal is set to low once the pulse has been processed, allowing for new pulses to be input.
+# Simulation Output
+![alt text](<Screenshot 2024-07-21 132650.png>)
+# Block Diagram of Circuit
