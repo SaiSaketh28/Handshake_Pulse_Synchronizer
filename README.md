@@ -24,4 +24,4 @@ Features
 # Simulation Output
 ![alt text](<Screenshot 2024-07-21 132650.png>)
 # Block Diagram of Circuit
-![alt text](hpc.drawio.png)
+![alt text](<Untitled Diagram.drawio (7).png>)
